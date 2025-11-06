@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PankajHarabhare09
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning Python , Data Structure And Algorithm.
+- 🌱 I’m currently learning Python , Data Science , Machine Learning And GenAI
 - 📫 How to reach me - pankajharabhare17@gmail.com
 - 😄 Pronouns: he\him
 - ⚡ Fun fact:  I talk to my code like it's a person… and it sometimes listens.
