@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PankajHarabhare09
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in ML Developer
 - 🌱 I’m currently learning Python , Data Science , Machine Learning And GenAI
 - 📫 How to reach me - pankajharabhare17@gmail.com
 - 😄 Pronouns: he\him
